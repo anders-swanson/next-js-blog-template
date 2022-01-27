@@ -12,7 +12,7 @@ A template built using [next-js](https://nextjs.org/docs/getting-started) for cr
 
 ### Examples
 
-- [Demo Guide]()
+- [Demo Guide](https://next-js-blog-template-eta.vercel.app/)
 - [Outdoor Blog](https://www.laurensbigadventure.com/)
 
 
