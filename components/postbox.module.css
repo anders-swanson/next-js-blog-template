@@ -1,0 +1,62 @@
+.postBox {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.pageNums {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.pageNums button {
+    color: rgb(97, 97, 97);
+    font-weight: lighter;
+    font-size: 16px;
+    border: none;
+    background: none;
+}
+
+.pageNums button:hover {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.highlighted {
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
+
+.post {
+    width: 230px;
+    height: 330px;
+}
+
+.postLink {
+    color: black;
+    font-size: small;
+}
+
+.tag {
+    border: none;
+    background: none;
+    font-size: small;
+    padding: 0%;
+    color: #272727;
+}
+
+.tag a {
+    padding-right: 7px;
+    color: #272727;
+}
+
+.tag a:hover {
+    padding-right: 7px;
+    color: #272727;
+}

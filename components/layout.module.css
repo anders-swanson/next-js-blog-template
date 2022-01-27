@@ -1,0 +1,41 @@
+.container {
+  max-width: 72rem;
+  padding: 0 1rem;
+  margin: 1rem auto 6rem;
+}
+
+.container img {
+  border-radius: 5px;
+}
+
+.header {
+  position: fixed;
+  top: 200px;
+  left: 50%;
+}
+
+.headerText {
+  position: fixed;
+  top: 50px;
+  left: 36px;
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.statsText {
+  position: fixed;
+  top: 100px;
+  left: 36px;
+  font-size: 1.8rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
